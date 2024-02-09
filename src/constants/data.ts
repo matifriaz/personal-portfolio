@@ -38,14 +38,15 @@ export const experiencesData = [
     title: "Graduated",
     location: "Lahore, PK",
     description:
-      "Lorem Ipsum is Lorem Ipsum,Lorem Ipsum is Lorem Ipsum,Lorem Ipsum is Lorem Ipsum",
+      "Lorem Ipsum is Lorem Ipsum, Lorem Ipsum is Lorem Ipsum,Lorem Ipsum is Lorem Ipsum",
     icon: React.createElement(LuGraduationCap),
     date: "2020",
   },
   {
     title: "Front-End Developer",
     location: "Technovier",
-    description: "Lorem Ipsum is Lorem Ipsum",
+    description:
+      "Lorem Ipsum is Lorem Ipsum, Lorem Ipsum is Lorem Ipsum,Lorem Ipsum is Lorem Ipsum",
     icon: React.createElement(CgWorkAlt),
     date: "2019 - 2021",
   },
